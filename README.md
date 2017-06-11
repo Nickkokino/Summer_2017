@@ -1,6 +1,6 @@
-# Online Recipe Book - Summer 2017
+# Online Recipe Book
 
-Links to various recipes to be made this summer
+Links to various recipes to be made.
 
 ## Breakfast
 
