@@ -4,13 +4,17 @@ Links to various recipes to be made.
 
 ## Breakfast
 
-[Unsplash search](https://unsplash-nkokino.now.sh/)
+[Breakfast Recipes](https://unsplash-nkokino.now.sh/)
 
 ## Lunch
 
-[Youtube search](https://youtube-nkokino.now.sh/)
+[Lunch Recipes](https://youtube-nkokino.now.sh/)
 
 ## Dinner
 
+[Dinner Recipes](https://youtube-nkokino.now.sh/)
 
-##Snacks
+## Snacks
+
+[Savory Recipes](https://youtube-nkokino.now.sh/)
+[Sweet Recipes](https://youtube-nkokino.now.sh/)
