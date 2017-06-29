@@ -28,6 +28,7 @@ Links to Healthy Recipes for all times of the day!
 * [Slow Cooked Beans and Quinoa](https://www.popsugar.com/food/Slow-Cooker-Beans-Quinoa-Scallions-Cheddar-37027434)
 * [Slow Cooked Spaghetti and Meatballs](http://www.tasteofhome.com/recipes/slow-cooker-spaghetti---meatballs)
 * [Double Coated Chicken](http://www.food.com/recipe/double-coated-chicken-with-corn-flakes-444830)
+* [Beef and Snowpeas](http://www.foodnetwork.com/recipes/ree-drummond/beef-with-snow-peas-recipe-3381538)
 
 ## Dessert
 
